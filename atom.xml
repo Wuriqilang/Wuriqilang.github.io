@@ -1,45 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wuriqilang.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-01-02T03:06:00.386Z</updated>
+    <title>Wuriqilang</title>
+    <updated>2020-01-20T07:06:16.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wuriqilang.github.io"/>
     <link rel="self" href="https://wuriqilang.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>专注工业与智能制造的程序员</subtitle>
     <logo>https://wuriqilang.github.io/images/avatar.png</logo>
     <icon>https://wuriqilang.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Wuriqilang</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://wuriqilang.github.io/post/hello-gridea</id>
-        <link href="https://wuriqilang.github.io/post/hello-gridea">
+        <title type="html"><![CDATA[大数据的基本概念]]></title>
+        <id>https://wuriqilang.github.io/post/dashujudegainian</id>
+        <link href="https://wuriqilang.github.io/post/dashujudegainian">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <updated>2020-01-20T05:58:25.000Z</updated>
+        <summary type="html"><![CDATA[<p>大数据这个词已经火热了很多年，似乎处处都存在着大数据的噱头，让我们回归本质，探讨一下大数据是什么？</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <content type="html"><![CDATA[<p>大数据这个词已经火热了很多年，似乎处处都存在着大数据的噱头，让我们回归本质，探讨一下大数据是什么？</p>
 <!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+<h2 id="背景-为什么需要大数据">背景 为什么需要大数据？</h2>
+<ul>
+<li>我们比以往产生<strong>更多</strong>且<strong>更多样性</strong>的数据</li>
+<li>我们比以往<strong>更快的</strong>产生数据</li>
+<li>这些数据具有其价值性</li>
+</ul>
+<p>针对以上三个基本原因，我们必须通过处理这些数据来提取其中的价值。</p>
+<p>然而处理这些大量的数据面临两个问题：</p>
+<ul>
+<li>大规模数据的存储</li>
+<li>大规模数据的分析</li>
+</ul>
+<p>这里我们举一个<strong>例子</strong>：早期的网络环境就如同一条小河，依河而居的人们世代通过抓鱼维生。这个时期鱼的数量有限、种类单一。人们只需要把鱼抓起来放到冰箱，想吃的时候直接拿出来烤就可以了。</p>
+<p><img src="https://cdn.nlark.com/yuque/__mermaid_v3/1544d6752fed608f5091ea0327630f95.svg#lake_card_v2=eyJjb2RlIjoiZ3JhcGggTFJcbnN1YmdyYXBoIOS4vuS-i1xuXHTmipPpsbwgLS0-IOaUvuWFpeWGsOeusVxuXHTmlL7lhaXlhrDnrrEtLT7ng6TpsbxcbmVuZFxuc3ViZ3JhcGgg5pWw5o2uXG5cdOaVsOaNruiOt-WPli0tPuaVsOaNruWtmOWCqFxuXHTmlbDmja7lrZjlgqgtLT7mlbDmja7lpITnkIZcbmVuZCIsInR5cGUiOiJtZXJtYWlkIiwiaWQiOiJKSjNoUiIsInVybCI6Imh0dHBzOi8vY2RuLm5sYXJrLmNvbS95dXF1ZS9fX21lcm1haWRfdjMvMTU0NGQ2NzUyZmVkNjA4ZjUwOTFlYTAzMjc2MzBmOTUuc3ZnIiwiY2FyZCI6ImRpYWdyYW0ifQ==" alt="" loading="lazy"><br>
+随着人类抓鱼的速度越来越快，抓鱼水平越来越高。人们抓到的鱼数量越来越大，种类越来越丰富。人们逐渐遇到了两个代表性的问题：</p>
+<ul>
+<li>冰箱放不下（存储不足）</li>
+<li>烹饪不过来（处理效率不足）</li>
+</ul>
+<p>如何解决这样的问题呢？</p>
+<ol>
+<li>冰箱放不下：</li>
+</ol>
+<p>解决冰箱放不下无非两个思路。①换一个大一点的冰箱（<strong>纵向扩展</strong>）②多买几个冰箱（横向扩展）<br>
+显然纵向扩展是难以实现的，存10000...条鱼需要多大的冰箱？<br>
+横向扩展相对容易实现，鱼多的时候多买一些冰箱，搞一个冷库（<strong>集群</strong>）然后大家一起去存放鱼（<strong>分布式存储</strong>）<br>
+然而随着冰箱越来越多（<strong>集群规模扩大</strong>），人们又单独做了一个账本（<strong>元数据</strong>），里面存储了每条鱼存放在冰箱什么位置的信息。</p>
+<ol start="2">
+<li>烹饪不过来：</li>
+</ol>
+<p>鱼越来越多，即使所有的鱼都能保存到冰箱中，但是只有一个厨师的话效率实在太低。<br>
+不如多找几个厨师，大家一起烤（分布式计算）</p>
+<h2 id=""></h2>
+<p>所以说，大数据技术本质上用于解决 海量数据提取、存储、处理的一套技术，分布式是其主要实现思路。</p>
 ]]></content>
     </entry>
 </feed>
