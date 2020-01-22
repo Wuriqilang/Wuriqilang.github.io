@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://wuriqilang.github.io</id>
+    <id>https://https://wuriqilang.github.io/</id>
     <title>Wuriqilang</title>
-    <updated>2020-01-20T07:06:16.475Z</updated>
+    <updated>2020-01-22T05:31:53.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://wuriqilang.github.io"/>
-    <link rel="self" href="https://wuriqilang.github.io/atom.xml"/>
+    <link rel="alternate" href="https://https://wuriqilang.github.io/"/>
+    <link rel="self" href="https://https://wuriqilang.github.io/atom.xml"/>
     <subtitle>专注工业与智能制造的程序员</subtitle>
-    <logo>https://wuriqilang.github.io/images/avatar.png</logo>
-    <icon>https://wuriqilang.github.io/favicon.ico</icon>
+    <logo>https://https://wuriqilang.github.io/images/avatar.png</logo>
+    <icon>https://https://wuriqilang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Wuriqilang</rights>
     <entry>
         <title type="html"><![CDATA[大数据的基本概念]]></title>
-        <id>https://wuriqilang.github.io/post/dashujudegainian</id>
-        <link href="https://wuriqilang.github.io/post/dashujudegainian">
+        <id>https://https://wuriqilang.github.io/post/dashujudegainian</id>
+        <link href="https://https://wuriqilang.github.io/post/dashujudegainian">
         </link>
         <updated>2020-01-20T05:58:25.000Z</updated>
         <summary type="html"><![CDATA[<p>大数据这个词已经火热了很多年，似乎处处都存在着大数据的噱头，让我们回归本质，探讨一下大数据是什么？</p>
